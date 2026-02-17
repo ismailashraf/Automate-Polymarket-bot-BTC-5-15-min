@@ -7,5 +7,5 @@
   "asset": "BTC",
   "window": "5m",
   "signal_source": "coingecko",
-  "volume_confidence": True
+  "volume_confidence": true
 }
